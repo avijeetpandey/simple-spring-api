@@ -1,2 +1,2 @@
-# ToDo API made with SPRING BOOT :tada:
-Simple ToDo REST API made with Spring-Boot and JAVA
+# Simple REST API made with SPRING BOOT :tada:
+Simple  REST API made with Spring-Boot and JAVA
